@@ -34,7 +34,7 @@ Below is a high-level diagram showcasing the architecture of the pipeline:
 
 ## Group Members
 
-- *Boutsloghoi Anass*
+- *Boutslighoi Anass*
 - *Brim Abdessamad*
 - *Chahboune Achraf*
 - *El Mednaoui Amine*
