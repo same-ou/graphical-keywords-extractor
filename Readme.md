@@ -8,7 +8,7 @@ This project uses:
 - **BLIP** for image captioning, generating descriptions of the image content.
 - **GOT-OCR2_0** for extracting text from the image using OCR.
 - **Google Gemini** to generate relevant keywords from the outputs of the captioning and OCR tools.
-- 
+
 ## Architecture
 
 Below is a high-level diagram showcasing the architecture of the pipeline:
@@ -21,9 +21,6 @@ Below is a high-level diagram showcasing the architecture of the pipeline:
    - **OCR (GOT-OCR2_0)**: Extracts any textual content that might be present in the image.
 
 2. **Keyword Extraction**: The outputs of the image captioning and OCR tools are combined and processed to generate a list of keywords that represent the image content.
-
-3. **Search Engine Integration**: The generated keywords are used to enhance search queries, improving accuracy and relevance in search engine results.
-
 
 ## Technologies Used
 
